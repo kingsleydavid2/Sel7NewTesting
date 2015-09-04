@@ -12,7 +12,6 @@ INDEX VERSION 1.127+C:\Users\kingsley.s\Desktop\Sel7NewTesting\.metadata\.plugin
 36278597.index
 4009614972.index
 90771030.index
-4089161748.index
 3152152696.index
 3438167942.index
 1827669085.index
